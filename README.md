@@ -1,5 +1,5 @@
-###TG群傳送門
-https://t.me/g2orgroup
+### TG群傳送門
+* https://t.me/g2orgroup
 ### 全域配置：
 
 * [QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/master/QuantumultX_remote.conf)
