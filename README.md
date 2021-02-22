@@ -1,6 +1,6 @@
 ### 全域配置：
 
-* [QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/main/QuantumultX_remote.conf)
+* [QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/master/QuantumultX_remote.conf)
 * 本項目參考nzw9314修改的,加了個自動同步源作者修改腳本功能,自用,只維護遠端腳本設定檔
 
 ### 本地配置：
