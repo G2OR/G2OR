@@ -1,8 +1,7 @@
-### TG群傳送門
-* https://t.me/g2orgroup
 ### 全域配置：
 
-* [QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/master/QuantumultX_remote.conf)
+* [含任務][QuantumultX_remote.conf](https://raw.githubusercontent.com/G2OR/QuantumultX/master/QuantumultX_remote.conf)
+* [不含任務][QuantumultX_no_task_remote.conf](https://github.com/G2OR/QuantumultX/blob/master/QuantumultX_no_task_remote.conf)
 * 本項目參考nzw9314修改的,加了個自動同步源作者修改腳本功能,自用,只維護遠端腳本設定檔
 
 ### 本地配置：
