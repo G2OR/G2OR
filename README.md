@@ -1,4 +1,4 @@
-### TG群傳送門:
+### TG群傳送門 :
 * https://t.me/g2orgroup
 ### 全域配置：
 
